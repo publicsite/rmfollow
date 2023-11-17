@@ -1,0 +1,18 @@
+rmfollow is a script to ...
+
+follow a symlink and delete it's destination file(s) including any other symlinks it points to intermediately
+removes any *empty* directories containing the symlink(s)/files which might be left over after deleting the destination file
+(and finally ... ) removes the symlink specified in the argument at the command line
+
+
+The software is ...
+
+Copyright (C) 2023 J05HYYY
+
+It is provided under the GPL licence.
+
+___________________________________________________________
+
+To donate:
+
+https://www.paypal.com/donate/?hosted_button_id=SZABYRV48SAXW
